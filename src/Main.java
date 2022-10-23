@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         //задача 1
         System.out.println("задача 1");
-        int apple = 222222;
+        int apple = 2222222;
         System.out.println("Значение переменной apple с типом int "+apple);
         byte apricot = 5;
         System.out.println("Значение переменной apricot с типом byte "+apricot);
